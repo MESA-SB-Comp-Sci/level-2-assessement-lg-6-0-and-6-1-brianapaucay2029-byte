@@ -1,1 +1,2 @@
 <!-- Write explantation below of tag choice below for an attempt at a level 4  -->
+I used class ids to style different parts of the website, for example by changing the text color and background color.

@@ -4,29 +4,40 @@
 
 .h1{
     color:white;
-    padding-block: pink;
+    background-color: pink;
+    
     
     }
 
 .html{
     background-color:grey;
 }
+
 .p1{
     color:yellow;
 }
+
 .p2{
     color:greenyellow;
 }
+
 .p3{
     color:skyblue;
+    
+
 }
+
 .border1{
-    border-color:orange;
-    padding-block:white;
+    background-color:white;
+    border:3px solid orange;
+    padding-bottom:50px
 }
+
 .ptag{
     color:white;
+    
 }
+
 .footer{
     color:white;
 }
